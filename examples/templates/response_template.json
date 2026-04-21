@@ -1,0 +1,11 @@
+[
+  {
+    "company_name": "Example Company Name",
+    "industry_location": "Industry • Location",
+    "followers": "1K followers",
+    "description": "Company description goes here...",
+    "logo_url": "https://example.com/logo.png",
+    "company_page_url": "https://linkedin.com/company/example",
+    "company_urn": "urn:li:company:12345678"
+  }
+]

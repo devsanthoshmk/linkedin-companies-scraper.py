@@ -1,0 +1,26 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# Output data
+output/
+examples/json/*.json
+examples/csv/*.csv
+examples/js/*.js
+
+# LinkedIn session
+linkedin_session.json
+fetch_output.log
+response.json
